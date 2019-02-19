@@ -1,0 +1,2 @@
+Unable to access Linux client.  Would check linux dns servers on the linux device is correct.  Make sure the local user did not change the local settings.  Also find out what sites they are having problems accessing, is it one particular site or multiple sites at the same time.
+check interface settings and make sure there are no errors on the local ethernet or switch interface.
